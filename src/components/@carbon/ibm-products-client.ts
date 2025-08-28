@@ -3,4 +3,4 @@
 
 "use client";
 
-export { UnauthorizedEmptyState } from "@carbon/ibm-products";
+export { TagSet, UnauthorizedEmptyState } from "@carbon/ibm-products";
