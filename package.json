@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@carbon/ibm-products": "^2.73.1-rc.0",
+    "@carbon/ibm-products": "^2.74.0",
     "@carbon/react": "^1.89.0",
     "next": "15.4.6",
     "react": "^19.1.1",
